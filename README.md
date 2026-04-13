@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Jakub 👋
 
-<!--
-**JakubHul/jakubhul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mobile Developer (Flutter) & Python Backend Developer  
+Building real-world applications and shipping products.
 
-Here are some ideas to get you started:
+## 🚀 What I do
+- 📱 Mobile app development (Flutter)
+- 🧠 Backend & REST APIs (Python, FastAPI, Flask)
+- 🔥 Product-focused development (from idea to release)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Featured Project
+### ADHDaily – Mobile Habit Tracker (Google Play)
+
+A production-ready Flutter app designed for people with ADHD to build and maintain daily habits.
+
+- Firebase Authentication
+- Cloud database (Firestore)
+- Habit tracking system
+- Subscription-based paywall
+
+👉 Available on Google Play
+
+## 🛠 Tech Stack
+- Flutter / Dart
+- Python (FastAPI, Flask)
+- Firebase (Auth, Firestore)
+- SQL / Databases
+
+## 🌐 Portfolio
+👉 https://jakubhul.com
