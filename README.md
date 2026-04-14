@@ -18,7 +18,7 @@ A production-ready Flutter app designed for people with ADHD to build and mainta
 - Habit tracking system
 - Subscription-based paywall
 
-👉 Available on Google Play
+👉 [Download on Google Play](https://play.google.com/store/apps/details?id=com.adhdaily.app&hl=pl)
 
 ## 🛠 Tech Stack
 - Flutter / Dart
